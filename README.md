@@ -5,7 +5,7 @@
 I'm a junior computer engineering student from Turkey. I might be considered 50% computer engineer, to be more precise.
 
 Besides the hard work I put into my university studies I'm progressively developing projects with different technologies. So far I've worked with C and C# (.NET and Xamarin). I built a few Windows desktop applications using C# at the very beginning of my education.
-My points of interests are changing regularly and I'm trying to learn anything I can learn. Right know I'm focused on web develoment, so I can say that I'm experienced in HTML & CSS and JavaScript. Also I'm learning Node.js to take the first step towards full-stack web developing.
+My points of interests are changing regularly and I'm trying to learn anything I can learn. Right now I'm focused on web develoment, so I can say that I'm experienced in HTML & CSS and JavaScript. Also I'm learning Node.js to take the first step towards full-stack web developing.
 
 You can find almost all of my projects here in my GitHub profile. You can view a live demo for my web applicatons from my [website](https://gecicidegisken.github.io/). 
 
