@@ -13,7 +13,7 @@ Feel free to mail me at hilalelifmutlu@gmail.com or reach out on [Twitter](https
 
 ### Me, briefly
 - 🔭 Currently working on full-stack web development
-- 🌱 Currently learning Node.js
+- 🌱 Currently learning Node.js & Vue.js
 - 😄 Pronouns: she/her
 - 📫 Reach me: [Check out my website](https://gecicidegisken.github.io/)
 
