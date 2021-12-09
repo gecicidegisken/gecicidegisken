@@ -1,8 +1,7 @@
 
 ![Moss from IT Crowd Typing](https://media.giphy.com/media/XzYY9fZM6sNFe/giphy.gif)
 
-## Hello there, it's Hilal! 👾
-(https://gecicidegisken.github.io/)
+
 
 
 <!--
